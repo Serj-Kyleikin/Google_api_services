@@ -1,6 +1,9 @@
 # google_api_service
 
-Laravel Google API Service
+Laravel Google API Service can:
+
+- use oauth google account for creating user
+- add event in calendar
 
 To setup workspace you need to run sudo ./start.sh
 
