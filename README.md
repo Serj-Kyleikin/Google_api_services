@@ -1,6 +1,6 @@
 # Google_api_services
 
-Laravel Google API Service can:
+Laravel Google API Services can:
 
 - use oauth google account for creating user
 - add event in calendar
