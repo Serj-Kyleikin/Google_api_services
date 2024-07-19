@@ -1,4 +1,4 @@
-# google_api_service
+# Google_api_services
 
 Laravel Google API Service can:
 
